@@ -4,7 +4,10 @@
 <p align="center"> 
 I love turning that GitHub contribution graph ⬇️ more green 🟩 in my <del>spare time</del> full time 🙃
 </p>
+```
+
 ### Programing Languages:
+
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
