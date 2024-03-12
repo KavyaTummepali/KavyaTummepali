@@ -22,6 +22,3 @@ I love turning that GitHub contribution graph ⬇️ more green 🟩 in my <del>
 
 <p align="center"> <img width="900em" src="https://github-readme-activity-graph.vercel.app/graph?username=vikashpr&bg_color=01010f&color=f5f5fe&line=ed4a7c&point=45994a&area=true&hide_border=true" alt="Vikash's Github Graph" /> </p> 
 -->
-
-<h4 align="center">Watch my contribution graph get eaten by the snake 🐍</h4>
-<p align="center"> <img  width="90em" alt="KavyaTummepali's Github comitte snake"  src="https://github.com/KavyaTummepali/KavyaTummepali/blob/output/github-contribution-grid-snake.svg" /> </p> 
