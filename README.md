@@ -24,4 +24,4 @@ I love turning that GitHub contribution graph ⬇️ more green 🟩 in my <del>
 -->
 
 <h4 align="center">Watch my contribution graph get eaten by the snake 🐍</h4>
-![snake gif](https://github.com/KavyaTummepali/KavyaTummepali/blob/output/github-contribution-grid-snake.gif)
+<p align="center"> <img  width="90em" alt="KavyaTummepali's Github comitte snake"  src="https://github.com/KavyaTummepali/KavyaTummepali/blob/output/github-contribution-grid-snake.svg" /> </p> 
