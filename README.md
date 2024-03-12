@@ -1,6 +1,4 @@
-### <p align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm Kavya Tummepalli</p>
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&random=false&width=500&height=60&lines=Hey+There!%F0%9F%91%8B%F0%9F%8F%BB;I'm+Kavya+Tummepalli!)](https://git.io/typing-svg)
 <p align="center"> 
 I love turning that GitHub contribution graph ⬇️ more green 🟩 in my <del>spare time</del> full time 🙃
 </p>
