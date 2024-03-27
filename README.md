@@ -15,10 +15,3 @@ I love turning that GitHub contribution graph ⬇️ more green 🟩 in my <del>
 ### Front End:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### Github contributions:
-
-<!-- <h4 align="center">My contribution graph</h4>
-
-<p align="center"> <img width="900em" src="https://github-readme-activity-graph.vercel.app/graph?username=vikashpr&bg_color=01010f&color=f5f5fe&line=ed4a7c&point=45994a&area=true&hide_border=true" alt="Vikash's Github Graph" /> </p> 
--->
