@@ -15,4 +15,4 @@
 # 📊 GitHub Stats:
 [![](https://github-readme-stats.vercel.app/api?username=KavyaTummepali)](https://github.com/KavyaTummepali/github-readme-stats)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KavyaTummepali&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=![](https://github-readme-stats.vercel.app/api/top-langs/?username=arshbhatia8&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KavyaTummepali&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
