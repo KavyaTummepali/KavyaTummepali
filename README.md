@@ -1,9 +1,5 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&random=false&width=500&height=60&lines=Hey+There!%F0%9F%91%8B%F0%9F%8F%BB;I'm+Kavya+Tummepalli!" alt="Typing SVG" /></a>
-</p>
-<p align="center"> 
-I love turning that GitHub contribution graph ⬇️ more green 🟩 in my <del>spare time</del> full time 🙃
-</p>
 
 ### Programing Languages:
 
