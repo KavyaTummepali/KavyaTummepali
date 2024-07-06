@@ -12,6 +12,7 @@
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### Github Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KavyaTummepali)](https://github.com/KavyaTummepali/github-readme-stats)
-
+# 📊 GitHub Stats:
+[![](https://github-readme-stats.vercel.app/api?username=KavyaTummepali)](https://github.com/KavyaTummepali/github-readme-stats)
+![](https://github-readme-streak-stats.herokuapp.com/?user=KavyaTummepali&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=![](https://github-readme-stats.vercel.app/api/top-langs/?username=arshbhatia8&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
